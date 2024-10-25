@@ -41,7 +41,7 @@ Diagram: <br/>
 <br />
 <br />
 First try: Episodes - 904 | Score rate - 200.65  <br/>
-<img src="https://github.com/Vlad774/Deep-Q-Learning-for-Lunar-Landing/blob/main/AutoLanding_v1.gif"/>
+<img src="https://github.com/Vlad774/CNN-model-Pacman-game/blob/main/pacman_v1.1.gif"/>
 <br />
 <br />
 Second try: Episodes - 360 | Score rate - 201.64 <br/>
